@@ -1,0 +1,21 @@
+<records>
+
+<record>
+<id> 23 </id>
+<name> John carter </name>
+<admisstion_date> 25/12/2015 </admisstion_date>
+</record>
+
+<record>
+<id> 29 </id>
+<name> Bob Marshal </name>
+<admisstion_date> 12/1/1999 </admisstion_date>
+</record>
+
+<record>
+<id> 35 </id>
+<name> Clark Kent </name>
+<admisstion_date> 17/6/2005 </admisstion_date>
+</record>
+
+</records>
